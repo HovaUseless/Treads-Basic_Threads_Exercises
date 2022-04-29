@@ -1,0 +1,15 @@
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\bin\Debug\net6.0\Tråde - Basis tråde øvelse.exe
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\bin\Debug\net6.0\Tråde - Basis tråde øvelse.deps.json
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\bin\Debug\net6.0\Tråde - Basis tråde øvelse.runtimeconfig.json
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\bin\Debug\net6.0\Tråde - Basis tråde øvelse.dll
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\bin\Debug\net6.0\Tråde - Basis tråde øvelse.pdb
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\obj\Debug\net6.0\Tråde - Basis tråde øvelse.csproj.AssemblyReference.cache
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\obj\Debug\net6.0\Tråde - Basis tråde øvelse.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\obj\Debug\net6.0\Tråde - Basis tråde øvelse.AssemblyInfoInputs.cache
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\obj\Debug\net6.0\Tråde - Basis tråde øvelse.AssemblyInfo.cs
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\obj\Debug\net6.0\Tråde - Basis tråde øvelse.csproj.CoreCompileInputs.cache
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\obj\Debug\net6.0\Tråde - Basis tråde øvelse.dll
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\obj\Debug\net6.0\refint\Tråde - Basis tråde øvelse.dll
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\obj\Debug\net6.0\Tråde - Basis tråde øvelse.pdb
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\obj\Debug\net6.0\Tråde - Basis tråde øvelse.genruntimeconfig.cache
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Tråde - Basis tråde øvelse\Tråde - Basis tråde øvelse\obj\Debug\net6.0\ref\Tråde - Basis tråde øvelse.dll
