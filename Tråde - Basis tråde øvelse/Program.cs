@@ -111,7 +111,7 @@ public class TempChecker
 
         while (checkerThread.IsAlive)
         {
-            
+            Thread.Sleep(5000); // Waits 5 seconds between checks
         }
         Console.WriteLine("Alarm thread terminated");
     }
@@ -236,12 +236,21 @@ public class InputOutputPrinter
 
     public void InputListener()
     {
+            char inputBeforeEnter = '\0'; // Using \0 as empty char essentially null.
         while(true)
         {
-            Input = Console.ReadKey().KeyChar;
+            ConsoleKeyInfo keyinfo = Console.ReadKey(true);
+            if (keyinfo.Key != ConsoleKey.Enter)
+            {
+                inputBeforeEnter = keyinfo.KeyChar;
+            }
+            else if (inputBeforeEnter != '\0' && keyinfo.Key == ConsoleKey.Enter)
+            {
+                Input = inputBeforeEnter;
+            }
+
         }
     }
-
 
     public void Print()
     {
